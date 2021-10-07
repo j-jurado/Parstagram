@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 - App icon and launch screen
-- Sign up and login w/ new account
+- Sign up, close the app, and login w/ new account
 
 ![Parstagram1](https://media.giphy.com/media/3AKjgS9LPJ0C7CWJiV/giphy.gif)
 
