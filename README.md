@@ -25,6 +25,8 @@ The following **bonus** features are implemented:
 -Sign up and login w/ new account
 ![Parstagram1](https://media.giphy.com/media/3AKjgS9LPJ0C7CWJiV/giphy.gif)
 
+
+
 -Posting new photo w/ caption
 -View up to 20 photos from server
 -Note: All posts are from user "Jesus" and last post is from user "Test"
