@@ -20,7 +20,10 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough:
+- Login, relaunch, stay logged in
+- View comments
+- Upload comments
+- Logout
 
 <img src="Parstagram2.gif" width="200"/>
 
